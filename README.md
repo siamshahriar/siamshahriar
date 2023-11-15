@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamshahriar&label=Profile%20views&color=0e75b6&style=flat" alt="siamshahriar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siamshahriar" alt="siamshahriar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mdsiam2012" target="blank"><img src="https://img.shields.io/twitter/follow/mdsiam2012?logo=twitter&style=for-the-badge" alt="mdsiam2012" /></a> </p>
-
-- 🔭 I’m currently working on [No Project](<empty>)
 
 - 🌱 I’m currently learning **React Js, Node Js**
 
